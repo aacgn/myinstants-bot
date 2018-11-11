@@ -88,7 +88,7 @@ The expect result is this:
 
 ## Authors
 
-* **Antonio Neto** (MyInstants) - *Initial work* - [aacgn](https://github.com/aacgn)
+* **Antonio Neto** (MyInstants bot) - *Initial work* - [aacgn](https://github.com/aacgn)
 
 * **Gabriel Gouveia** (qdbb) - *Initial work* - [gabrielgouv](https://github.com/gabrielgouv)
 
