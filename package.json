@@ -1,5 +1,5 @@
 {
-  "name": "myinstants-bot-v2",
+  "name": "myinstants-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
@@ -8,9 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Antonio Neto",
+  "license": "MIT",
   "dependencies": {
     "qdbb": "^0.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.5",
+    "typescript": "^3.1.6"
   }
 }
