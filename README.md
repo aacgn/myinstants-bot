@@ -2,6 +2,8 @@
 
 Play a specific or a random meme sound from MyInstans in your Discord server right now.
 
+Invitation: https://discordapp.com/api/oauth2/authorize?client_id=508706513502601225&permissions=8&scope=bot
+
 ## Getting Started
 
 These instructions were developed from an environment installation and execution of your Bot.
