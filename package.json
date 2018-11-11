@@ -11,10 +11,8 @@
   "author": "Antonio Neto",
   "license": "MIT",
   "dependencies": {
-    "qdbb": "^0.1.4"
-  },
-  "devDependencies": {
     "@types/node": "^10.12.5",
+    "qdbb": "^0.1.4",
     "typescript": "^3.1.6"
   }
 }
