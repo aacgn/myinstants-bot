@@ -1,10 +1,10 @@
 import { BotOptions, DiscordBot } from "qdbb";
 import http from "http";
 import fs from "fs";
-import MyInstantsMessageProcessor from "./myinstants-message-processor";
+import MyInstantsMessageProcessor from "./message/myinstants-message-processor";
 
 let options: BotOptions = {
-    token: process.env.BOT_TOKEN || 'NTA4NzA2NTEzNTAyNjAxMjI1.DsDrCg.eLxPOj_K416bIAsy2PeVZt3Xq9I',
+    token: process.env.BOT_TOKEN || 'BOT_TOKEN',
     commandFilePattern: 'commands/*.command.ts'
 }
 
