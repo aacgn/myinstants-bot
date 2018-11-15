@@ -1,6 +1,6 @@
 # MyInstants bot
 
-Play a specific or a random meme sound from MyInstans in your Discord server right now.
+Play a specific or random meme sound from MyInstans in your Discord server right now.
 
 Invitation: https://discordapp.com/api/oauth2/authorize?client_id=508706513502601225&permissions=8&scope=bot
 
@@ -56,6 +56,14 @@ npm install
 
 #### Starting MyInstants bot
 
+Open index.ts and change the value of token variable (line 7) for your BOT_TOKEN:
+```
+let options: BotOptions = {
+    token: process.env.BOT_TOKEN || 'BOT_TOKEN',
+    commandFilePattern: 'commands/*.command.ts'
+}
+```
+
 Finally, initialize the bot:
 ```
 npm start
@@ -76,13 +84,13 @@ The expect result is this:
 
 * [npm](https://www.npmjs.com/) - Package manager
 * [qdbb](https://www.npmjs.com/package/qdbb/) - The Discord bot framework used
-
+* [CleanVoice](https://api.cleanvoice.ru/myinstants/) - My Instants API
 
 ## Authors
 
-* **Antonio Neto** - *Initial work* - [aacgn](https://github.com/aacgn)
+* **Antonio Neto** (MyInstants bot) - *Initial work* - [aacgn](https://github.com/aacgn)
 
-* **Gabriel Gouveia** - *Initial work* - [gabrielgouv](https://github.com/gabrielgouv)
+* **Gabriel Gouveia** (qdbb) - *Initial work* - [gabrielgouv](https://github.com/gabrielgouv)
 
 ## License
 ```
