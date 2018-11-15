@@ -56,7 +56,7 @@ npm install
 
 #### Starting MyInstants bot
 
-Open index.ts and change the value of token variable (line 7) for your BOT_TOKEN:
+Open src/index.ts and change the value of token variable (line 7) for your BOT_TOKEN:
 ```
 let options: BotOptions = {
     token: process.env.BOT_TOKEN || 'BOT_TOKEN',
