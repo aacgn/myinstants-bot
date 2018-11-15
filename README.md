@@ -72,7 +72,7 @@ npm start
 The expect result is this:
 ```
 > myinstants-bot-v2@1.0.0 start /home/antonio/Documentos/myinstants-bot-v2
-> tsc --lib "es6" && node dist/index.js
+> tsc --lib "es6" && node src/dist/index.js
 
 [Sun, 11 Nov 2018 03:09:11 GMT | info]     [ ADDED ] Added 'play' command in commands list.
 [Sun, 11 Nov 2018 03:09:11 GMT | info]     [ ADDED ] Added 'random' command in commands list.
