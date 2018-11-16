@@ -4,7 +4,7 @@ import fs from "fs";
 import MyInstantsMessageProcessor from "./message/myinstants-message-processor";
 
 let options: BotOptions = {
-    token: process.env.BOT_TOKEN || 'NTA4NzA2NTEzNTAyNjAxMjI1.Dsm2IA.U7g6RSPAcpIVBCQhcCT8QRUQFgs',
+    token: process.env.BOT_TOKEN || 'BOT_TOKEN',
     commandFilePattern: 'commands/*.command.ts'
 }
 
