@@ -90,7 +90,9 @@ The expect result is this:
 
 * **Antonio Neto** (MyInstants bot) - *Initial work* - [aacgn](https://github.com/aacgn)
 
-* **Gabriel Gouveia** (qdbb) - *Initial work* - [gabrielgouv](https://github.com/gabrielgouv)
+## Thanks
+
+* **Gabriel Gouveia** (qdbb) - [gabrielgouv](https://github.com/gabrielgouv)
 
 ## License
 ```
