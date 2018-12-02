@@ -18,7 +18,7 @@ Installing on Linux (Ubuntu):
 sudo apt-get install git
 ```
 #### Node.js
-In order for ibiatilize the code it is necessary to have installed [Node.js] (https://nodejs.org/en/) on your machine.
+In order for iniatilize the code it is necessary to have installed [Node.js] (https://nodejs.org/en/) on your machine.
 
 Installing on Linux (Ubuntu):
 ```
